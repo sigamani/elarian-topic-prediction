@@ -2,9 +2,9 @@
 
 ## Setup 
 
-1) Download BERT model [here](https://drive.google.com/open?id=1R7m5aw21PuM_QWKBLUY3QtLTVxTNLykP) and Tensorflow model [here](https://drive.google.com/open?id=1Toq0muNqJcTHYPF-z0yrYYb1TFKqx6ee) from  and place and untar in the ROOT DIR
+1) Download BERT model [here](https://drive.google.com/open?id=1R7m5aw21PuM_QWKBLUY3QtLTVxTNLykP) and Tensorflow model [here](https://drive.google.com/open?id=1Toq0muNqJcTHYPF-z0yrYYb1TFKqx6ee)
 
-2) Decompress: `tar -xvf tf_model.tar.gz; tar -xvf bert_model.tar.gz` 
+2) Decompress model files in ROOTDIR: `tar -xvf tf_model.tar.gz; tar -xvf bert_model.tar.gz` 
 
 3) In a conda environment or otherwise: `pip install -r requirements.txt`
 
