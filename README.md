@@ -2,7 +2,7 @@
   
 ## Setup 
 
-Download BERT model and Tensorflow model from [here](https://drive.google.com/drive/u/0/folders/15xPnai3wmfwfodtQgHQsehIs2jp_9XPZ) and place in bert_model folder in the ROOT DIR
+Download BERT model [here](https://drive.google.com/open?id=1VECMmwPAXyEbwOPg8weAm9nCQkmKuJcN) and Tensorflow model [here](https://drive.google.com/open?id=1Toq0muNqJcTHYPF-z0yrYYb1TFKqx6ee) from  and place and untar in the ROOT DIR
 
 1) In a conda environment or otherwise: `pip install -r requirements.txt`
 
