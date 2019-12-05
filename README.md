@@ -2,7 +2,7 @@
 
 ## Setup 
 
-1) Download BERT model [here](https://drive.google.com/open?id=1VECMmwPAXyEbwOPg8weAm9nCQkmKuJcN) and Tensorflow model [here](https://drive.google.com/open?id=1Toq0muNqJcTHYPF-z0yrYYb1TFKqx6ee) from  and place and untar in the ROOT DIR
+1) Download BERT model [here](https://drive.google.com/open?id=1R7m5aw21PuM_QWKBLUY3QtLTVxTNLykP) and Tensorflow model [here](https://drive.google.com/open?id=1Toq0muNqJcTHYPF-z0yrYYb1TFKqx6ee) from  and place and untar in the ROOT DIR
 
 2) Decompress: `tar -xvf tf_model.tar.gz; tar -xvf bert_model.tar.gz` 
 
