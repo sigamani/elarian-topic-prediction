@@ -8,7 +8,9 @@
 
 3) In a conda environment or otherwise: `pip install -r requirements.txt`
 
-4) To run on test set: `python run_interactively.py` 
+4) Download bert_dp helper functions: `python -m deeppavlov install squad_bert`
+
+5) To run on test set: `python run_interactively.py` 
 
 ## Results 
 Final results on validation set can be found [here](https://docs.google.com/spreadsheets/d/1aarAx_o73rIkrEc6mWywOvjacPc0V99avKeLF_re5h4/edit#gid=0)
